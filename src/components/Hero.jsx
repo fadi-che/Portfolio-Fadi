@@ -28,7 +28,7 @@ export default function Hero() {
           transition={{ delay: 0.6 }}
           className="hero-tagline"
         >
-          Elevating Digital Landscapes with<span className="hero-break">{"\n"}</span> Precision & Innovation
+          Elevating Digital Landscapes with<span className="hero-break">{"\n"}</span> Precision & Innovation.
         </motion.p>
 
         <motion.p
