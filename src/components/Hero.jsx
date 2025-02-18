@@ -29,7 +29,7 @@ export default function Hero() {
           className="hero-tagline"
         >
           Elevating Digital Landscapes with
-          <span className="hero-break">{"\n"}</span> Precision & Innovation
+          <span className="hero-break">{"\n"}</span> Precision & Innovation.
         </motion.p>
 
         <motion.p
