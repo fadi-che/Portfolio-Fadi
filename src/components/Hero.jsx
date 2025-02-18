@@ -39,7 +39,7 @@ export default function Hero() {
           className="hero-subtext"
         >
           Expert in crafting high-performance digital solutions that drive
-          results.
+          results
         </motion.p>
 
         <motion.button
